@@ -49,12 +49,15 @@ Ansible
 **Containerization and Orchestration**
 
 Docker
+
 Kubernetes
+
 Amazon ECS
 
 **Monitoring and Logging**
 
 Prometheus
+
 Grafana
 
 Contributions to this repository are welcome! If you have a suggestion for a tool that should be included or would like to improve the existing content, feel free to submit a pull request. Please adhere to the Contributing Guidelines when contributing.
