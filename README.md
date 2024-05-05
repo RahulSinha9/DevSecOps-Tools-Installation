@@ -21,7 +21,7 @@ Continuous Delivery (CD).**
 
 **3. Configuration Management.**
 
-**Containerization and Orchestration**
+**4. Containerization and Orchestration**
 
 **Monitoring and Logging**
 
