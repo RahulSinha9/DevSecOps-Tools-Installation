@@ -23,9 +23,9 @@ Continuous Delivery (CD).**
 
 **4. Containerization and Orchestration**
 
-**Monitoring and Logging**
+**5.Monitoring and Logging**
 
-**Collaboration and Communication**
+**6.Collaboration and Communication**
 
 Whether you're looking for tools to automate your build pipeline, manage your infrastructure, or monitor your applications in production, you'll find a variety of options to choose from in this repository.
 
