@@ -14,10 +14,10 @@ Welcome to the DevOps Tools repository! This repository serves as a comprehensiv
 
 DevOps (Development and Operations) is a set of practices aimed at automating and integrating the processes between software development and IT teams. This repository aims to provide a curated list of tools that facilitate different aspects of the DevOps lifecycle, including:
 
-**Continuous Integration (CI)
+**1. Continuous Integration (CI)
 Continuous Delivery (CD).**
 
-**Infrastructure as Code (IaC).**
+**2. Infrastructure as Code (IaC).**
 
 **Configuration Management.**
 
