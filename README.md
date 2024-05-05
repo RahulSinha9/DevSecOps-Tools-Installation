@@ -19,7 +19,7 @@ Continuous Delivery (CD).**
 
 **2. Infrastructure as Code (IaC).**
 
-**Configuration Management.**
+**3. Configuration Management.**
 
 **Containerization and Orchestration**
 
