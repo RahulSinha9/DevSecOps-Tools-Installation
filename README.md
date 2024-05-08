@@ -6,7 +6,7 @@ Welcome to the DevOps Tools repository! This repository serves as a comprehensiv
 
 2. Tool List.
 
-3. Contributing
+3. Contributing.
 
 4. License
 
