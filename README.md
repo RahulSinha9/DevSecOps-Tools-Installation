@@ -59,7 +59,7 @@ Prometheus
 
 Grafana
 
-Contributions to this repository are welcome! If you have a suggestion for a tool that should be included or would like to improve the existing content, feel free to submit a pull request. Please adhere to the Contributing Guidelines when contributing.
+Contributions to this repository are welcome! If you have a suggestion for a tool that should be included or would like to improve the existing content,  feel free to submit a pull request. Please adhere to the Contributing Guidelines when contributing.
 
 License
 This repository is licensed under the MIT License. Feel free to use, modify, and distribute the content within the terms of the license.
