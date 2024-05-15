@@ -22,7 +22,7 @@ DevOps (Development and Operations) is a set of practices aimed at automating an
 
 **4. Containerization and Orchestration.**
 
-**5.Monitoring and Logging.**
+**5. Monitoring and Logging.**
 
 **6.Collaboration and Communication.**
 
