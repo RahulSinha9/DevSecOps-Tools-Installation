@@ -8,7 +8,7 @@ Welcome to the DevOps Tools repository! This repository serves as a comprehensiv
 
 3. Contributing.
 
-4. License..
+4. License.
 
 **Introduction**
 
