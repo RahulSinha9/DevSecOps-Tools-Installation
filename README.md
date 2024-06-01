@@ -2,7 +2,7 @@ Welcome to the DevOps Tools repository! This repository serves as a comprehensiv
 
 **Table of Contents**
 
-1. Introduction.
+1. Introduction.......
 
 2. Tool List.
 
