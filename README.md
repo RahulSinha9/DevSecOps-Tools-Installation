@@ -1,4 +1,4 @@
-Welcome to the DevOps Tools repository! This repository serves as a comprehensive collection of various tools commonly used in the field of DevOps. Whether you're a seasoned DevOps engineer or just starting out, you will find a variety of tools here to streamline your development, deployment, and operations processes.
+Welcome to the DevOps Tools repository! This repository serves as a comprehensive collection of various tools commonly used in the field of DevOps. Whether you're a seasoned DevOps engineer or just starting out, you will find a variety of tools here to streamline your development, deployment, and operations processes..
 
 **Table of Contents**
 
