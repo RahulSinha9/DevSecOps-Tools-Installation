@@ -1,3 +1,4 @@
+#!/bin/bash
 sudo apt-get install -y
 
 sudo mkdir -p /etc/apt/keyrings/
